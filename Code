@@ -8,10 +8,8 @@ My website   : http://www.mkme.org
 */
 
 #include <ESP8266WiFi.h>
-const char* ssid     = "xxxxx";      // SSID of local network
-const char* password = "xxxxxxx";   // Password on network
-const char* ssid     = "xxxxxxxxxxxxxxxxxxxx";      // SSID of local network---------------------USER Input here
-const char* password = "xxxxxxx";   // Password on network -----------------------------------------------------
+const char* ssid     = "mobile hotspot";      // SSID of local network---------------------USER Input here
+const char* password = "nivas4567";   // Password on network -----------------------------------------------------
 String result;
 float h = 111;
 float t = 222;
